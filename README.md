@@ -1,6 +1,8 @@
 # Lab 3: Component Modelling & Architectural Pattern Selection
 
+**Student Name:** Soumik Sinha  
 **Student USN:** PES1UG24CS463  
+**Section:** 5H  
 **Roll / Sl. No:** 32  
 **Assigned Scenario:** Self-Service Coffee Kiosk System  
 
